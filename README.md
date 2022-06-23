@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **neural networks, anything from huggingfaces**
 
-- 📫 How to reach me **|My full name| |AT| gmail |DOT| com**
+- 📫 How to reach me: **|My full name| |AT| gmail |DOT| com**
 
-- 📄 Know about my experiences [https://saikumarmk.com/resume](https://saikumarmk.com/resume)
+- 📄 My résumé: [https://saikumarmk.com/resume](https://saikumarmk.com/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
