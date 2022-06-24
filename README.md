@@ -15,7 +15,7 @@
 
 - 📫 How to reach me: **|My full name| |AT| gmail |DOT| com**
 
-- 📄 My résumé: [https://saikumarmk.com/assets/resume](https://saikumarmk.com/assets/resume)
+- 📄 My résumé: [https://saikumarmk.com/assets/resume.pdf](https://saikumarmk.com/assets/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
