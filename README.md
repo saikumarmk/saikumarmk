@@ -1,5 +1,5 @@
-<h1 align="center">What's up! I'm Sai kumar</h1>
-<h3 align="center">A backend software developer and data scientist who enjoys teaching coding</h3>
+<h1 align="center">What's up! I'm Sai</h1>
+<h3 align="center">Upcoming Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working on **project-maidenless**, **neochomp**, and **TheBetterHandbookAPI**
 
@@ -8,10 +8,6 @@
 - 👯 I’m looking to collaborate on **anything!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saikumarmk/](https://github.com/saikumarmk/)
-
-- 📝 I regularly write articles on [https://saikumarmk.com](https://saikumarmk.com)
-
-- 💬 Ask me about **neural networks, anything from huggingfaces**
 
 - 📫 How to reach me: **|My full name| |AT| gmail |DOT| com**
 
